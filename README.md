@@ -35,7 +35,7 @@ This is a simple Toy Database System written in Python. It's not meant to be use
 just use pip.
 
 ```bash
-pip install ToyBase
+$ pip install ToyBase
 ```
 
 ### And that's it basically...
@@ -90,6 +90,7 @@ base.delete_record(0)
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python](https://www.python.org/) - Programming Language
+- [Pickle](https://docs.python.org/3/library/pickle.html) - Python Object Serialization
 
 ## ✍️ Authors <a name = "authors"></a>
 

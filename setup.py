@@ -1,16 +1,10 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 long_description = open("README.md", "r", encoding="utf-8").read()
-# get packages from requirements.txt
-with open("requirements.txt") as f:
-    requirements = f.read().splitlines()
-
 
 setup(
     name="ToyBase",
-    version="1.0.0",
-    packages=find_packages(),
-    install_requires=requirements,
+    version="1.0.1",
     author="Sasen Perera",
     author_email="sas8.communications@gmail.com",
     description="A Toy Database System written in Python",
