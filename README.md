@@ -48,7 +48,7 @@ Creating a new table.
 ```python
 from ToyBase import ToyBase
 
-base = ToyBase("test")
+base = ToyBase.ToyBase("test")
 
 base.create_table(["Name", "Phone"])
 ```
@@ -98,3 +98,4 @@ base.delete_record(0)
 - [@Sas2k](https://github.com/Sas2k) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+

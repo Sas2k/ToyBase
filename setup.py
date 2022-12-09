@@ -4,7 +4,7 @@ long_description = open("README.md", "r", encoding="utf-8").read()
 
 setup(
     name="ToyBase",
-    version="1.0.2",
+    version="1.0.3",
     author="Sasen Perera",
     packages=find_packages(),
     author_email="sas8.communications@gmail.com",
