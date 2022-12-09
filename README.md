@@ -5,6 +5,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/Sas2k/ToyBase.svg)](https://github.com/Sas2k/ToyBase/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Sas2k/ToyBase.svg)](https://github.com/Sas2k/ToyBase/pulls)
+[![Downloads](https://static.pepy.tech/personalized-badge/toybase?period=month&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/toybase)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
